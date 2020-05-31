@@ -14,7 +14,7 @@ Jego działanie jest bardzo proste. Wpisjąc w wyszukiwarkę angielską frazę n
 
 ## Zdjęcia
 
-![Screenshot](Przykład.jpeg)
+![Screenshot](Przykład.jpg)
 
 ## Użyte technologie
 
