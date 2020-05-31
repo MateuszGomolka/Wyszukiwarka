@@ -22,7 +22,7 @@ Przy słabym łączy podczas ładowanie strony wyświetlana jest informacje o ty
 
 ## Zdjęcia
 
-![Screenshot](Przykład.jpg)
+![Screenshot](Projekt.png)
 
 ## Użyte technologie
 
