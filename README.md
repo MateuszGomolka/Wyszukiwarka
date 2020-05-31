@@ -1,5 +1,5 @@
 ## Zawartość dokumentacji
-* [Główne informacje](#Główne informacje)
+* [Główne informacje]
 * [Jak działa?](#Jak działa?)
 * [Dodatkowe funkcje](#Dodatkowe funkcje)
 * [Zdjęcia](#Zdjęcia])
