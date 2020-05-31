@@ -11,7 +11,7 @@ Przedstawiony projekt służy do wyszukiwania zdjęć z bazy danych Pixabay przy
 
 	
 ## Jak działa?
-Jego działanie jest bardzo proste. Wpisjąc w wyszukiwarkę angielską frazę np. "Parrot" otrzymamy w domyśle 20 zdjęć psów które zostają zaczerpnięte ze zbioru zdjęć Pixabay. Zdjęcia wyszukiwane są na podstawie tagów.<br/>
+Jego działanie jest bardzo proste. Wpisjąc w wyszukiwarkę angielską frazę np. "Dog" otrzymamy w domyśle 20 zdjęć psów które zostają zaczerpnięte ze zbioru zdjęć Pixabay. Zdjęcia wyszukiwane są na podstawie tagów.<br/>
 Dodatkowo przy każdym zdjęciu wyświetlony jest autor danego zdjęcia, ilość wyświetleń, polubień, komentarzy, a także cały adres URL do strony macierzystej.
 
 ## Dodatkowe funkcje
