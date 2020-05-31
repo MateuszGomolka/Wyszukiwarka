@@ -1,10 +1,10 @@
 ## Zawartość dokumentacji
-* [Główne informacje](#general)
-* [Jak działa?](#how)
-* [Dodatkowe funkcje](#function)
-* [Zdjęcia](#pictures)
-* [Użyte technologie](#tech)
-* [Jak uruchomić](#setup)
+* [Główne informacje](#Główne informacje)
+* [Jak działa?](#Jak działa?)
+* [Dodatkowe funkcje](#Dodatkowe funkcje)
+* [Zdjęcia](#Zdjęcia])
+* [Użyte technologie](#Użyte technologie)
+* [Jak uruchomić](#Jak uruchomić)
 
 ## Główne informacje
 Przedstawiony projekt służy do wyszukiwania zdjęć z bazy danych Pixabay przy użyciu jego API.
