@@ -31,7 +31,7 @@ const ImageCard = ({ image }) => {
           </li>         
           <li>
             <strong>Odnośnik do strony: </strong>
-            {image.pageURL}
+            <a href={image.pageURL}>Kliknij</a>
           </li>
         </ul>
       </div>
